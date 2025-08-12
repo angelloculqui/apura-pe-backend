@@ -1,4 +1,4 @@
-# ![APURA.PE Logo](logo.png)
+# ![APURA.PE Logo](https://github.com/angelloculqui/apura-pe-backend/blob/main/logo%20APURA.PE.png)
 
 ## 🚀 APURA.PE — El delivery rápido y confiable de Pucallpa
 
